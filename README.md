@@ -1,6 +1,5 @@
 # Ride-Sharing-API-in-SpringBoot
-I did this project by using java, Spring Boot, JPA, MySQL. I implemented 4 microservices. Each Microserver can do some operation. I describe the operation in below step by stepThe
-Following four microservices I implemented here.
+
 # 1 Admin
 # 2 Driver
 # 3 Passenger
